@@ -6,13 +6,12 @@ import { getAuth, createUserWithEmailAndPassword, signInWithPopup, GoogleAuthPro
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAFQvoYIdXVPZWHoYXt0zTLV4SE83Qc78s",
-  authDomain: "galleryauthorization.firebaseapp.com",
-  projectId: "galleryauthorization",
-  storageBucket: "galleryauthorization.appspot.com",
-  messagingSenderId: "382309660806",
-  appId: "1:382309660806:web:b9c27539030a434c117907",
-  measurementId: "G-CPWWWW7BLD"
+  apiKey: "AIzaSyAndc4MiZDR-eekFCMF-CwvkxOk--Onemc",
+  authDomain: "firebassetodo.firebaseapp.com",
+  projectId: "firebassetodo",
+  storageBucket: "firebassetodo.appspot.com",
+  messagingSenderId: "465547590954",
+  appId: "1:465547590954:web:0a34157c6c6348ec72f253"
 };
 
 const app = initializeApp(firebaseConfig);
